@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hej there 👋
 
-<!--
-**jackd248/jackd248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Konrad, a full stack developer from Dresden, Germany. 
 
-Here are some ideas to get you started:
+### 🚀 TYPO3 Extensions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Content Planner](https://github.com/xima-media/xima-typo3-content-planner): TYPO3 extension with a page status functionality to support the planning of content work, e.g. a migration process.
+- [Frontend Edit](https://github.com/xima-media/xima-typo3-frontend-edit): TYPO3 extension which provides an edit button for editors within frontend content elements.
+- [Recent updates](https://github.com/xima-media/xima-typo3-recent-updates): A widget for the dashboard to display recently updated elements.
+
+### 🎚️ Symfony Bundles
+
+- [SystemInformationBundle](https://github.com/jackd248/SystemInformationBundle): Sonata Admin bundle to display systemically relevant information
+
+### 🛠️ DevOps
+
+- [db_sync_tool](https://github.com/jackd248/db-sync-tool): Python script to synchronize a database from an origin to a target system.
+- [Deployer Tools](https://github.com/xima-media/xima-deployer-tools): The XIMA Deployer Tools combine multiple deployer recipes for an improved deployment process and workflow.
+- [Lighthouse Garden](https://github.com/jackd248/lighthouse-garden): Monitoring performance data for websites using the lighthouse service.
+- [DDEV Commands Collection](https://github.com/jackd248/ddev-commands-collection): Collection of reusable DDEV commands.
+
+### 🐬 Side Projects
+
+- [temps](https://github.com/jackd248/temps): Simple menubar application based on Electron with actual weather information and forecast.
+- [clockwork/ai](https://github.com/jackd248/clockwork-ai): Simple DIY clock project to generate AI poems by current time.
+
+### 💎 Design & Graphics
+
+- [Weather Iconic](https://github.com/jackd248/weather-iconic): An open source weather icon set.
+
+---
+
+📫 Contact: hej@konradmichalik.dev 
